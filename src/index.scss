@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Vadi';
+  src:   url('../public/fonts/vadi-regular-2.0.2.woff2') format('woff2'),
+        url('../public/fonts/vadi-regular-2.0.2.woff') format('woff');
+}
+
+body {
+  font-family: Vadi, Fallback, sans-serif;
+  font-size: 14px;
+}
